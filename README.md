@@ -140,7 +140,10 @@ cd game-day-notifications
 4. Integrating external APIs into cloud-based workflows.
 
 
-### **Future Enhancements**
-1. Add NFL score alerts for extended functionality.
-2. Store user preferences (teams, game types) in DynamoDB for personalized alerts.
-3. Implement a web UI
+### **Screenshot from exection**
+
+![alt text](email.jpg)
+
+
+![alt text](notification.jpg)
+
